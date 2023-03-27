@@ -87,7 +87,18 @@ content:
           Es una empresa tecnológica que da servicios a otras empresas y a entidades gubernamentales. El principal servicio que ofrecen son auditorías sobre la civerseguridad de vehículos. Esto con el objetivo de proteger la vidas tanto de los usuarios de estos vehículos como su información personal.
         description: | # this will include new lines to allow paragraphs
           Las principales tareas que realice fue desarrolo de una aplicacion web el diesño de una red y el de un simulador con interfaz grafica.
-  - title: Education
+          
+      - layout: right
+        title: eurocibcar
+        sub_title: Apoyo en el Área Técnica en el área de programación
+        caption: Octubre 2022 - Diciembre 2022
+        link: https://eurocybcar.com/
+        quote: >
+          Es una empresa tecnológica que da servicios a otras empresas y a entidades gubernamentales. El principal servicio que ofrecen son auditorías sobre la civerseguridad de vehículos. Esto con el objetivo de proteger la vidas tanto de los usuarios de estos vehículos como su información personal.
+        description: | # this will include new lines to allow paragraphs
+          Las principales tareas que realice fue desarrolo de una aplicacion web el diesño de una red y el de un simulador con interfaz grafica.
+
+  - title: Educación
     layout: list
     content:
       - layout: top-right
