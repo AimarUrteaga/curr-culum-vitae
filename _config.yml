@@ -52,13 +52,13 @@ youtube_username: "@aimarurteaga"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+#
+#  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#    - Lists
+#    - Tables
+#    - <a href="google.com">Links</a>
+#    - Images ![alt text](/images/landscape-trees.jpg "Trees")
   Soy un estudiante de inejenieria informatica interesado en la programacion a bajo nivel, ciberseguridad, sistemas empotrados y sistemas operativos. Tambien disfruto de diseño de redes y sistemas de computo en paralelo.
 
 content:
@@ -91,10 +91,7 @@ content:
         caption: Octubre 2022 - Diciembre 2022
         link: https://eurocybcar.com/
         quote: >
-          Es una empresa tecnológica que da servicios a otras empresas y a entidades
-	gubernamentales. El principal servicio que ofrecen son auditorías sobre la civerseguridad de
-	vehículos. Esto con el objetivo de proteger la vidas tanto de los usuarios de estos vehículos como su
-	información personal.
+          Es una empresa tecnológica que da servicios a otras empresas y a entidades gubernamentales. El principal servicio que ofrecen son auditorías sobre la civerseguridad de vehículos. Esto con el objetivo de proteger la vidas tanto de los usuarios de estos vehículos como su información personal.
         description: | # this will include new lines to allow paragraphs
           Las principales tareas que realice fue desarrolo de una aplicacion web el diesño de una red y el de un simulador con interfaz grafica.
   - title: Education
