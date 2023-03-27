@@ -59,7 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
 #    - Tables
 #    - <a href="google.com">Links</a>
 #    - Images ![alt text](/images/landscape-trees.jpg "Trees")
-Soy un estudiante de inejenieria informatica interesado en la programacion a bajo nivel, ciberseguridad, sistemas empotrados y sistemas operativos. Tambien disfruto de diseño de redes y sistemas de computo en paralelo.
+	Soy un estudiante de inejenieria informatica interesado en la programacion a bajo nivel, ciberseguridad, sistemas empotrados y sistemas operativos. Tambien disfruto de diseño de redes y sistemas de computo en paralelo.
 
 content:
 #  - title: Projects # Title for the section
