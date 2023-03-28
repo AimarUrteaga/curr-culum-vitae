@@ -88,7 +88,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Unas practicas en las que las principales tareas que realice fue desarrolo de una aplicacion web el diesño de una red y el de un simulador con interfaz grafica.
           
-      - layout: right
+      - layout: left
         title: Eurocibcar
         sub_title: Investigacón y desarrollo.
         caption: Enero 2023 - Actualidad
@@ -113,10 +113,6 @@ content:
         title: Bachillerato cientifico
         sub_title: Txorierri institutua bhi
         caption: 2017 - 2019
-          
-  - title: Educación
-    layout: list
-      - C
           
   - title: A Little More About Me
     layout: text
