@@ -91,24 +91,32 @@ content:
       - layout: right
         title: eurocibcar
         sub_title: Apoyo en el Área Técnica en el área de programación
-        caption: Octubre 2022 - Diciembre 2022
+        caption: Enero 2023 - Actualidad
         link: https://eurocybcar.com/
         quote: >
           Es una empresa tecnológica que da servicios a otras empresas y a entidades gubernamentales. El principal servicio que ofrecen son auditorías sobre la civerseguridad de vehículos. Esto con el objetivo de proteger la vidas tanto de los usuarios de estos vehículos como su información personal.
         description: | # this will include new lines to allow paragraphs
-          Las principales tareas que realice fue desarrolo de una aplicacion web el diesño de una red y el de un simulador con interfaz grafica.
+          La principal tarea relizada ha sido la ivestigaccion y desarrolo de un dron.
 
   - title: Educación
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Ingenieria informatica
+        sub_title: Universidad del País Vasco
+        caption: 2019 - 2023
         quote: >
-          Short institution or course description (optional)
+          Ingenieria informatica en la especializado en ingeniería de computadores
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Esta especialidad se centra a parte de en los basicos comunes de la informatica en la ciberseguridad, diseño de redes, computacion paralela, diseño de hardware, programación de sistemas empotrados, administracción de sistemas y utilización de distintos aceleradores como puede der tarjetas graficas por ejemplo.
+      - layout: top-right
+        title: Bachillerato cientifico
+        sub_title: Universidad del País Vasco
+        caption: 2019 - 2023
+        quote: >
+          Ingenieria informatica en la especializado en ingeniería de computadores
+        description: | # this will include new lines to allow paragraphs
+          Esta especialidad se centra a parte de en los basicos comunes de la informatica en la ciberseguridad, diseño de redes, computacion paralela, diseño de hardware, programación de sistemas empotrados, administracción de sistemas y utilización de distintos aceleradores como puede der tarjetas graficas por ejemplo.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -117,7 +125,7 @@ content:
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
