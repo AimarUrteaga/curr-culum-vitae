@@ -116,13 +116,13 @@ content:
         caption: 2017 - 2019
           
   - title: Lenguajes de programación
-    layout: list
-    content: # this will include new lines to allow paragraphs
-      -quote: >
-      	c
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      -c
       
-      -quote: >
-      	java
+      -java
+
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
   
   - title: A Little More About Me
     layout: text
