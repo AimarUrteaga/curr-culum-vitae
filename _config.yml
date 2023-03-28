@@ -117,12 +117,10 @@ content:
           
   - title: Lenguajes de programación
     layout: list
-    content: | # this will include new lines to allow paragraphs
+    content: # this will include new lines to allow paragraphs
       -c
       
       -java
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
   
   - title: A Little More About Me
     layout: text
