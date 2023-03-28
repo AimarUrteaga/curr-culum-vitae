@@ -118,9 +118,11 @@ content:
   - title: Lenguajes de programación
     layout: list
     content: # this will include new lines to allow paragraphs
-      -c
+      -quote: >
+      	c
       
-      -java
+      -quote: >
+      	java
   
   - title: A Little More About Me
     layout: text
