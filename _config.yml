@@ -114,6 +114,10 @@ content:
         sub_title: Txorierri institutua bhi
         caption: 2017 - 2019
           
+  - title: Educación
+    layout: list
+      - C
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
