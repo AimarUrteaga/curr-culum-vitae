@@ -116,7 +116,7 @@ content:
         caption: 2017 - 2019
           
   - title: Lenguajes de programación
-    layout: text
+    layout: list
     content: | # this will include new lines to allow paragraphs
       -c
       
