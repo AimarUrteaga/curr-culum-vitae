@@ -110,13 +110,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           Esta especialidad se centra a parte de en los basicos comunes de la informatica en la ciberseguridad, diseño de redes, computacion paralela, diseño de hardware, programación de sistemas empotrados, administracción de sistemas y utilización de distintos aceleradores como puede der tarjetas graficas por ejemplo.
       - layout: top-right
-        title: Ingenieria informatica
-        sub_title: Universidad del País Vasco
-        caption: 2019 - 2023
-        quote: >
-          Ingenieria informatica en la especializado en ingeniería de computadores
-        description: | # this will include new lines to allow paragraphs
-          Esta especialidad se centra a parte de en los basicos comunes de la informatica en la ciberseguridad, diseño de redes, computacion paralela, diseño de hardware, programación de sistemas empotrados, administracción de sistemas y utilización de distintos aceleradores como puede der tarjetas graficas por ejemplo.
+        title: Bachillerato cientifico
+        sub_title: txorierri institutua bhi
+        caption: 2017 - 2019
           
   - title: A Little More About Me
     layout: text
