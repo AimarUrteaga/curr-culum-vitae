@@ -117,7 +117,7 @@ content:
           
   - title: Lenguajes de programación
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: > # this will include new lines to allow paragraphs
       -c
       
       -java
