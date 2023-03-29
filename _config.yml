@@ -118,18 +118,35 @@ content:
   - title: Lenguajes de programación
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - c
+      - C: Muy elevado
       
-      - java
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-  
-  - title: A Little More About Me
+      - Java: Muy elevado
+      
+      - Python: Elevado
+      
+      - JavaScript: Medio
+      
+      - PHP: Medio
+      
+      -SQL: Medio
+      
+      -Bash/Shell: Medio
+      
+      -HTML/CSS: Bajo
+      
+  - title: Lenguajes de programación
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      - Castellano: Muy elevado
+      
+      - Euskera: Muy elevado
+      
+      - Ingles: Medio
+  
+  - title: Un poquito mas sobre mi
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Soy dislexico, eso significa que leo de manera mas lenta que la media aunque la compresion lectora es adecuada y nunca he tenido problemas en ese aspecto. Tambien soy disgrafico lo cual significa que mi letra es lijeramente dificil de entender y soy disortografíco lo cual significa que cometo muchas faltas ortograficas. Soy una persona curiosa y apasionada por la informatica y la ciencia, ademas de amigable por lo tento disfruto de trabajar en equipo.
 
 # Footer
 footer_show_references: false
