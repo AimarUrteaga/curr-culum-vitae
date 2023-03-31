@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Aimar Urteaga
-title: Ingeniero Informatico
+title: Ingeniero Informático
 email: aimar@aimar.es
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
@@ -52,7 +52,7 @@ youtube_username: "@aimarurteaga"
 about_title: Sobre mi
 about_profile_image: images/profile.jpg
 about_content: |
-  Soy un estudiante de inejenieria informatica interesado en la programacion a bajo nivel, ciberseguridad, sistemas empotrados y sistemas operativos. Tambien disfruto de diseño de redes y sistemas de computo en paralelo.
+  Soy un estudiante de inegeniería informática interesado en la programación a bajo nivel, ciberseguridad, sistemas empotrados, sistemas operativos, sistemas de computo en paralelo y administracción de sistemas.
 
 content:
 #  - title: Projects # Title for the section
@@ -79,6 +79,16 @@ content:
     layout: list
     content:
       - layout: left
+          title: Eurocibcar
+          sub_title: Investigación y desarrollo.
+          caption: Enero 2023 - Actualidad
+          link: https://eurocybcar.com/
+          quote: >
+            Es una empresa tecnológica que da servicios a otras empresas y a entidades gubernamentales. El principal servicio que ofrecen son auditorías sobre la civerseguridad de vehículos. Esto con el objetivo de proteger la vidas tanto de los usuarios de estos vehículos como su información personal.
+          description: | # this will include new lines to allow paragraphs
+            La principal tarea relizada ha sido la ivestigación y desarrolo de un dron.
+    
+      - layout: left
         title: Eurocibcar
         sub_title: Apoyo en el Área Técnica en el área de programación
         caption: Octubre 2022 - Diciembre 2022
@@ -86,32 +96,22 @@ content:
         quote: >
           Es una empresa tecnológica que da servicios a otras empresas y a entidades gubernamentales. El principal servicio que ofrecen son auditorías sobre la civerseguridad de vehículos. Esto con el objetivo de proteger la vidas tanto de los usuarios de estos vehículos como su información personal.
         description: | # this will include new lines to allow paragraphs
-          Unas practicas en las que las principales tareas que realice fue desarrolo de una aplicacion web el diesño de una red y el de un simulador con interfaz grafica.
-          
-      - layout: left
-        title: Eurocibcar
-        sub_title: Investigacón y desarrollo.
-        caption: Enero 2023 - Actualidad
-        link: https://eurocybcar.com/
-        quote: >
-          Es una empresa tecnológica que da servicios a otras empresas y a entidades gubernamentales. El principal servicio que ofrecen son auditorías sobre la civerseguridad de vehículos. Esto con el objetivo de proteger la vidas tanto de los usuarios de estos vehículos como su información personal.
-        description: | # this will include new lines to allow paragraphs
-          La principal tarea relizada ha sido la ivestigaccion y desarrolo de un dron.
+          Unas prácticas en las que las principales tareas que realicé fue: desarrollo de una aplicación web, el dieseño de una red y el de un simulador con interfaz grafica.
 
   - title: Educación
     layout: list
     content:
       - layout: top-left
-        title: Ingenieria informatica
+        title: Ingeniería informática
         sub_title: Universidad del País Vasco
         caption: 2019 - 2023
         quote: >
-          Ingenieria informatica en la especializado en ingeniería de computadores
+          Ingeniería informática en la especialización en ingeniería de computadores
         description: | # this will include new lines to allow paragraphs
-          Esta especialidad se centra a parte de en los basicos comunes de la informatica en la ciberseguridad, diseño de redes, computacion paralela, diseño de hardware, programación de sistemas empotrados, administracción de sistemas y utilización de distintos aceleradores como puede der tarjetas graficas por ejemplo.
+          Esta especialidad se centra, a parte de en los básicos comunes de la informática, en la ciberseguridad, diseño de redes, computación paralela, diseño de hardware, programación de sistemas empotrados, administracción de sistemas y utilización de distintos aceleradores (como puede ser tarjetas graficas por ejemplo).
       
       - layout: top-left
-        title: Bachillerato cientifico
+        title: Bachillerato científico
         sub_title: Txorierri institutua bhi
         caption: 2017 - 2019
           
@@ -137,16 +137,16 @@ content:
   - title: Lenguajes de programación
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Castellano: Muy elevado
+      - Castellano: Nativo
       
-      - Euskera: Muy elevado
+      - Euskera: Nativo
       
       - Ingles: Medio
   
   - title: Un poquito mas sobre mi
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Soy dislexico, eso significa que leo de manera mas lenta que la media aunque la compresion lectora es adecuada y nunca he tenido problemas en ese aspecto. Tambien soy disgrafico lo cual significa que mi letra es lijeramente dificil de entender y soy disortografíco lo cual significa que cometo muchas faltas ortograficas. Soy una persona curiosa y apasionada por la informatica y la ciencia, ademas de amigable por lo tento disfruto de trabajar en equipo.
+      Soy disléxico. Eso significa que leo de manera mas lenta que la media, aunque la compresion lectora es adecuada y nunca he tenido problemas en ese aspecto. También, disgráfico esto implica que mi letra es ligeramente díficil de entender y disortográfico lo cual genera que cometa muchas faltas ortográficas. Soy una persona curiosa y apasionada por la informática y la ciencia. Tambien tengo una actitud cordial y respetuosa por lo tento disfruto de trabajar en equipo.
 
 # Footer
 footer_show_references: false
