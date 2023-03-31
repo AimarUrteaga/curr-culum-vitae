@@ -128,11 +128,11 @@ content:
       
       - PHP: Medio
       
-      -SQL: Medio
+      - SQL: Medio
       
-      -Bash/Shell: Medio
+      - Bash/Shell: Medio
       
-      -HTML/CSS: Bajo
+      - HTML/CSS: Bajo
       
   - title: Lenguajes de programación
     layout: text
