@@ -79,14 +79,14 @@ content:
     layout: list
     content:
       - layout: left
-          title: Eurocibcar
-          sub_title: Investigación y desarrollo.
-          caption: Enero 2023 - Actualidad
-          link: https://eurocybcar.com/
-          quote: >
-            Es una empresa tecnológica que da servicios a otras empresas y a entidades gubernamentales. El principal servicio que ofrecen son auditorías sobre la civerseguridad de vehículos. Esto con el objetivo de proteger la vidas tanto de los usuarios de estos vehículos como su información personal.
-          description: | # this will include new lines to allow paragraphs
-            La principal tarea relizada ha sido la ivestigación y desarrolo de un dron.
+        title: Eurocibcar
+        sub_title: Investigación y desarrollo.
+        caption: Enero 2023 - Actualidad
+        link: https://eurocybcar.com/
+        quote: >
+          Es una empresa tecnológica que da servicios a otras empresas y a entidades gubernamentales. El principal servicio que ofrecen son auditorías sobre la civerseguridad de vehículos. Esto con el objetivo de proteger la vidas tanto de los usuarios de estos vehículos como su información personal.
+        description: | # this will include new lines to allow paragraphs
+          La principal tarea relizada ha sido la ivestigación y desarrolo de un dron.
     
       - layout: left
         title: Eurocibcar
