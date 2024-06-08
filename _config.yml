@@ -102,13 +102,13 @@ content:
     layout: list
     content:
       - layout: top-left
-          title: Master en ingenieria de sistemas empotrados
-          sub_title: Universidad del País Vasco
-          caption: 2023 - 2025
-          quote: >
-            Master especializado en programación a bajo nivel
-          description: | # this will include new lines to allow paragraphs
-            Este master basa en obtener un conocimiento profundo sobre el hardware en el que se opera llegando a realizar programación bare metal y módulos de kernel de linux. Además, también se aprende ha realizar diseños en FPGA mediante BHDL. Por último cabe destacar el conocimioento adquierido en control y en procesamiento de señales digitales.
+        title: Master en ingenieria de sistemas empotrados
+        sub_title: Universidad del País Vasco
+        caption: 2023 - 2025
+        quote: >
+          Master especializado en programación a bajo nivel
+        description:
+          Este master basa en obtener un conocimiento profundo sobre el hardware en el que se opera llegando a realizar programación bare metal y módulos de kernel de linux. Además, también se aprende ha realizar diseños en FPGA mediante BHDL. Por último cabe destacar el conocimioento adquierido en control y en procesamiento de señales digitales.
         
       - layout: top-left
         title: Ingeniería informática
@@ -116,7 +116,7 @@ content:
         caption: 2019 - 2024
         quote: >
           Ingeniería informática en la especialización en ingeniería de computadores
-        description: | # this will include new lines to allow paragraphs
+        description:
           Esta especialidad se centra, a parte de en los básicos comunes de la informática, en la ciberseguridad, diseño de redes, computación paralela, diseño de hardware, programación de sistemas empotrados, administración de sistemas y utilización de distintos aceleradores (como puede ser tarjetas gráficas por ejemplo).
       
       - layout: top-left
