@@ -166,7 +166,7 @@ content:
   - title: Un poquito más sobre mí
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Soy una persona que disfruta trabajando en equipo. Presento una actitud cordial y respetuosa tanto en la vida personal como en el trabajo por lo que me gusta participar en equipo y tanto recibir ayuda como ayudar a mis compañeros. Soy una persona disléxica, por lo cual leo de manera mas lenta que la media. También, disgráfico esto implica que mi letra es poco clara de entender y disortográfico por lo que cometo faltas ortográficas. Aun asi mi comprensión lectora es excelente (por encima de la media) y nunca he tenido ningún problema al respecto. Soy una persona curiosa y apasionada por la informatica y la ciencia lo que me hace esforzarme y disfrutar por aprender nuevas cosas en este ámbito.
+      Soy una persona que disfruta trabajando en equipo. Presento una actitud cordial y respetuosa tanto en la vida personal como en el trabajo por lo que me gusta participar en equipo y tanto recibir ayuda como ayudar a mis compañeros. Soy una persona disléxica, por lo cual leo de manera mas lenta que la media. También, disgráfico esto implica que mi letra es poco clara de entender y disortográfico por lo que cometo faltas ortográficas. Aun así mi comprensión lectora es excelente (por encima de la media) y nunca he tenido ningún problema al respecto. Soy una persona curiosa y apasionada por la informatica y la ciencia lo que me hace esforzarme y disfrutar por aprender nuevas cosas en este ámbito.
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
