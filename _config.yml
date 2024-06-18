@@ -86,7 +86,7 @@ content:
         quote: >
           Es una empresa tecnológica que da servicios a otras empresas y a entidades gubernamentales. El principal servicio que ofrecen son auditorías sobre la ciberseguridad de vehículos. El objetivo es el de proteger la vidas tanto de los usuarios de estos vehículos como su información personal.
         description: | # this will include new lines to allow paragraphs
-          La principal tarea relizada ha sido la investigación y desarrollo de un dron. Para este proyecto completé las estapas iniciales del desarrollo, desde las definiciones de la funcionalidad, un estudio de la viabilidad del proyecto, estado del arte, decidir los componentes que se iban a utilizar para la construcción del primer prototipo y un comienzo del desarrollo del software.
+          La principal tarea realizada ha sido la investigación y desarrollo de un dron. Para este proyecto completé las estapas iniciales del desarrollo, desde las definiciones de la funcionalidad, un estudio de la viabilidad del proyecto, estado del arte, decidir los componentes que se iban a utilizar para la construcción del primer prototipo y un comienzo del desarrollo del software.
     
       - layout: left
         title: Eurocibcar
@@ -96,19 +96,19 @@ content:
         quote: >
           Es una empresa tecnológica que da servicios a otras empresas y a entidades gubernamentales. El principal servicio que ofrecen son auditorías sobre la ciberseguridad de vehículos. El objetivo es el de proteger la vidas tanto de los usuarios de estos vehículos como su información personal.
         description: | # this will include new lines to allow paragraphs
-          Unas prácticas en las que las principales tareas que realicé fue: desarrollo de una aplicación web, la arquitectura de una red de intranet junto con todos los servidores que la componían y el desarrollo de un simulador que integraba una interfaz gráfica junto con un bus can.
+          Unas prácticas en las que las principales tareas que realicé fueron: desarrollo de una aplicación web, la arquitectura de una red de intranet junto con todos los servidores que la componían y el desarrollo de un simulador que integraba una interfaz gráfica junto con un bus can.
 
   - title: Educación
     layout: list
     content:
       - layout: top-left
-        title: Master en ingenieria de sistemas empotrados
+        title: Máster en ingeniería de sistemas empotrados
         sub_title: Universidad del País Vasco
         caption: 2023 - 2025
         quote: >
-          Master especializado en programación a bajo nivel
+          Máster especializado en programación a bajo nivel
         description:
-          Este master se basa en obtener un conocimiento profundo sobre el hardware en el que se opera llegando a realizar programación bare metal y módulos de kernel de linux. Además, también se aprende ha realizar diseños en FPGA mediante BHDL. Por último cabe destacar el conocimiento adquirido en control y en procesamiento de señales digitales.
+          Este máster se basa en obtener un conocimiento profundo sobre el hardware en el que se opera llegando a realizar programación bare metal y módulos de kernel de Linux. Además, también se aprende a realizar diseños en FPGA mediante BHDL. Por último cabe destacar el conocimiento adquirido en control y en procesamiento de señales digitales.
         
       - layout: top-left
         title: Ingeniería informática
@@ -150,7 +150,7 @@ content:
       
       - Euskera: Nativo
       
-      - Ingles: Medio
+      - Inglés: Medio
 
   - title: Certificaciones y permisos
     layout: text
@@ -161,12 +161,12 @@ content:
 
       - Operador drone (A2): Dispongo de la autorización para operar drones de hasta 4Kg en zonas pobladas a una distancia de seguridad del tránsito de personas.
 
-      - Operador drone (A3): Dispongo de la autorización para operar drones de hasta 25Kg a distancias minimas de 150m de cualquier persona o zona residencial, comercial, industriales y recreativa.
+      - Operador drone (A3): Dispongo de la autorización para operar drones de hasta 25Kg a distancias mínimas de 150m de cualquier persona o zona residencial, comercial, industriales y recreativa.
 
   - title: Un poquito más sobre mí
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Soy una persona que disfruta trabajando en equipo. Presento una actitud cordial y respetuosa tanto en la vida personal como en el trabajo por lo que me gusta participar en equipo y tanto recibir ayuda como ayudar a mis compañeros. Soy una persona disléxica, por lo cual leo de manera mas lenta que la media. También, disgráfico esto implica que mi letra es poco clara de entender y disortográfico por lo que cometo faltas ortográficas. Aun así mi comprensión lectora es excelente (por encima de la media) y nunca he tenido ningún problema al respecto. Soy una persona curiosa y apasionada por la informatica y la ciencia lo que me hace esforzarme y disfrutar por aprender nuevas cosas en este ámbito.
+      Soy una persona que disfruta trabajando en equipo. Presento una actitud cordial y respetuosa tanto en la vida personal como en el trabajo por lo que me gusta participar en equipo y tanto recibir ayuda como ayudar a mis compañeros. Soy una persona disléxica, por lo cual leo de manera más lenta que la media. También, disgráfico, esto implica que mi letra es poco clara de entender y disortográfico, por lo que cometo faltas ortográficas. Aun así mi comprensión lectora es excelente (por encima de la media) y nunca he tenido ningún problema al respecto. Soy una persona curiosa y apasionada por la informática y la ciencia lo que me hace esforzarme y disfrutar por aprender nuevas cosas en este ámbito.
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
