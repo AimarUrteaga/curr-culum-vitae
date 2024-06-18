@@ -163,10 +163,10 @@ content:
 
       - Operador drone (A3): Dispongo de la autorización para operar drones de hasta 25Kg a distancias minimas de 150m de cualquier persona o zona residencial, comercial, industriales y recreativa.
 
-  - title: Un poquito mas sobre mi
+  - title: Un poquito más sobre mí
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Soy disléxico. Eso significa que leo de manera mas lenta que la media, aunque la compresion lectora es mayor a la media y nunca he tenido problemas en ese aspecto. También, disgráfico esto implica que mi letra es poco clara de entender y disortográfico por lo que cometo faltas ortográficas. Soy una persona curiosa y apasionada por la informática y la ciencia. También tengo una actitud cordial y respetuosa por lo tanto disfruto de trabajar en equipo.
+      Soy disléxico. Eso significa que leo de manera más lenta que la media, aunque la compresion lectora es mayor a la media y nunca he tenido problemas en ese aspecto. También, disgráfico esto implica que mi letra es poco clara de entender y disortográfico por lo que cometo faltas ortográficas. Soy una persona curiosa y apasionada por la informática y la ciencia. También tengo una actitud cordial y respetuosa por lo tanto disfruto de trabajar en equipo.
 
 # Footer
 footer_show_references: false
