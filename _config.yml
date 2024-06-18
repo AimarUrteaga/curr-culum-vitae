@@ -86,7 +86,7 @@ content:
         quote: >
           Es una empresa tecnológica que da servicios a otras empresas y a entidades gubernamentales. El principal servicio que ofrecen son auditorías sobre la civerseguridad de vehículos. El objetivo es el de proteger la vidas tanto de los usuarios de estos vehículos como su información personal.
         description: | # this will include new lines to allow paragraphs
-          La principal tarea relizada ha sido la ivestigación y desarrolo de un dron.
+          La principal tarea relizada ha sido la ivestigación y desarrolo de un dron. Para este prollecto complete las estapas iniciles del desarrolo, desde las deficiciones de la funcionalidad, un estudio de la viavilidad del prollecto, estado del arte, decidir los componentes que se iban ha utilizar para la construcción del primer prototipo y un comienzo del desarrolo del software.
     
       - layout: left
         title: Eurocibcar
@@ -96,7 +96,7 @@ content:
         quote: >
           Es una empresa tecnológica que da servicios a otras empresas y a entidades gubernamentales. El principal servicio que ofrecen son auditorías sobre la civerseguridad de vehículos. El objetivo es el de proteger la vidas tanto de los usuarios de estos vehículos como su información personal.
         description: | # this will include new lines to allow paragraphs
-          Unas prácticas en las que las principales tareas que realicé fue: desarrollo de una aplicación web, el diseño de una red y el de un simulador con interfaz grafica.
+          Unas prácticas en las que las principales tareas que realicé fue: desarrollo de una aplicación web, la arquitectura de una red de intranet junto con todos los servidores que la componian y el desarrollo de un simulador que integraba una interfaz grafica junto con un bus can.
 
   - title: Educación
     layout: list
@@ -143,7 +143,7 @@ content:
       
       - HTML/CSS: Bajo
       
-  - title: Lenguajes de programación
+  - title: Idiomas
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Castellano: Nativo
@@ -151,7 +151,18 @@ content:
       - Euskera: Nativo
       
       - Ingles: Medio
-  
+
+  - title: Certificaciones y permisoso
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Carnet de conducir (B): Dispongo del carnet de conducir B junto con coche propio. Este me habilita para operar automóviles cuya masa máxima autorizada no exceda de 3.500 kg que estén diseñados y construidos para el transporte de no más de 9 personas.
+      
+      - Operador drone (A1): Dispongo de la autorización para operar drones de hasta 900g en zonas pobladas con transito de personas.
+
+      - Operador drone (A2): Dispongo de la autorización para operar drones de hasta 4Kg en zonas pobladas a una distancia de seguridad del transito de personas.
+
+      - Operador drone (A3): Dispongo de la autorización para operar drones de hasta 25Kg a distancias minimas de 150m de cualquier persona o zona residencial, comercial, industriales y recreativa.
+
   - title: Un poquito mas sobre mi
     layout: text
     content: | # this will include new lines to allow paragraphs
