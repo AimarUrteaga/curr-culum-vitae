@@ -108,7 +108,7 @@ content:
         quote: >
           Máster especializado en programación a bajo nivel
         description:
-          Este máster se basa en obtener un conocimiento profundo sobre el hardware en el que se opera llegando a realizar programación bare metal y módulos de kernel de Linux. Además, también se aprende a realizar diseños en FPGA mediante BHDL. Por último cabe destacar el conocimiento adquirido en control y en procesamiento de señales digitales.
+          Este máster se basa en obtener un conocimiento profundo sobre el hardware en el que se opera llegando a realizar programación bare metal y módulos de kernel de Linux. Además, también se aprende a realizar diseños en FPGA mediante VHDL. Por último cabe destacar el conocimiento adquirido en control y en procesamiento de señales digitales.
         
       - layout: top-left
         title: Ingeniería informática
